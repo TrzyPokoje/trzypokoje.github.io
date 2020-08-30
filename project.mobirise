@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "TrzyPokoje",
+    "name": "Trzy Pokoje WARSZAWA",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise-amp",
@@ -41,17 +41,27 @@
     "uniqCompNum": 16,
     "versionPublish": "5.0.29",
     "screenshot": "screenshot.png",
-    "imageResize": true
+    "imageResize": true,
+    "favicon": "@PROJECT_PATH@/assets/images/chatadlastudenta-90x86-90x86.png",
+    "robotsSwitcher": true,
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
+    "sitemapSwitcher": false,
+    "siteUrl": false,
+    "sitemapSwitcherAuto": "on",
+    "canonical-url": false,
+    "cookiesAlert": false,
+    "gdpr": false
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
         "title": "Trzy Pokoje do wynajęcia Warszawa",
-        "meta_descr": "Trzy pokoje 1 osobowe w mieszkaniu 3 osobowym.\nDo wynajęcia, bezpośrednio, przez właściciela.\nMieszkanie w nowym apartamentowcu w Warszawie przy ul. Ostrobramskiej. Wykończone w wysokim standardzie i wyposażone.\n",
+        "meta_descr": "Trzy pokoje 1os. w mieszkaniu 3os. - WARSZAWA.\nDo wynajęcia, bezpośrednio, przez właściciela.\nMieszkanie w nowym apartamentowcu w Warszawie przy ul. Ostrobramskiej. Wykończone w wysokim standardzie i wyposażone.\n",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/b-09-03-2-1242x878.jpeg"
       },
       "components": [
         {
